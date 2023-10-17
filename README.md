@@ -1,6 +1,6 @@
 # Description
 
-These are materials supplementing a submission to the Argument Mining Workshop 2023 titled "On the Impact of Reconstruction and Context for Argument Prediction in Natural Debate".
+These are materials supplementing an accepted paper to the Argument Mining Workshop 2023 titled "On the Impact of Reconstruction and Context for Argument Prediction in Natural Debate".
 
 ## Dataset
 
