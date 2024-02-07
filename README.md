@@ -6,7 +6,7 @@ These are materials supplementing an accepted paper to the Argument Mining Works
 
 The data used for the experiments is in the "data" folder.
 dataQT30.csv is used for training.
-dataQT31-40.csv is used for evaluation.
+Data used for evaluation is temporarily unavailable publicly. Please contact the first author of the paper directly (zlata.kikteva@uni-passau.de) to request it. 
 
 ## Experiments
 
